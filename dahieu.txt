@@ -1,0 +1,16 @@
+1. ls : li?t kê các file trong folder
+
+2. git clone http://github.com/........... : t?i respontory v? máy
+
+3. git config --global user.name "tên" : d?nh d?ng tên ng up code lên github
+
+4. git config --global user.email "email tài kho?n dang kí github" :email tài kho?n  github
+
+5. git add: t?i code lên github
+             +TH1: git add . :t?i toàn b? file trong folder lên gthub
+             +TH2: git add tên_file : t?i lên file mình mu?n up lên github
+
+6. git commit -m " N?i dung chú thích " : chú thích file upload nên github
+
+7. git push origin master: dùng d? up lên github ( thao tác r?t quan tr?ng vì nó quy?t d?nh là mình có up lên thành công
+                                                   không)  
